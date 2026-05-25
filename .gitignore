@@ -1,1 +1,8 @@
-
+__pycache__/
+*.pyc
+.env
+venv/
+cache/
+vector_store/*.bin
+vector_store/*.pkl
+.DS_Store
