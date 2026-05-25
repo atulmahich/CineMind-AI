@@ -1,1 +1,11 @@
-
+gradio
+pandas
+numpy
+requests
+beautifulsoup4
+sentence-transformers
+huggingface_hub
+faiss-cpu
+torch
+transformers
+lxml
